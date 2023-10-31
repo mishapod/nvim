@@ -132,5 +132,6 @@ require("lazy").setup({
     },
 
     {'ThePrimeagen/harpoon'},
+    { 'numToStr/Comment.nvim', opts = {} },
 
 }, {})
